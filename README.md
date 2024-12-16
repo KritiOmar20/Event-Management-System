@@ -84,10 +84,10 @@ Before you begin, ensure you have the following installed:
 ## Project Structure
 
 ```bash
-EventoEMS/
+Event-Management-System/
 |-- ems/client          # Frontend files
 |-- ems/api             # Backend files
-|-- .env.example        # Example environment variables file
+|-- .env                # Environment variables file
 |-- README.md           # Documentation
 ```
 
